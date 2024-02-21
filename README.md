@@ -15,6 +15,7 @@ This repository is a comprehensive collection of advanced Java concepts, accompa
 - **In-depth Comments:** Each code snippet is thoroughly commented, providing insights into the implementation details and highlighting key concepts.
 - **Q&A Section:** A curated set of questions and answers to reinforce your understanding and challenge your knowledge.
 - **Topics Covered:**
+  - Core Java
   - Multithreading and Concurrency
   - Design Patterns
   - Lambdas and Streams
