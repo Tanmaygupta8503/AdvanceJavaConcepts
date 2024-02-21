@@ -1,5 +1,3 @@
-Certainly! If you're creating a GitHub repository for advanced concepts in Java with comments and Q&A, it's essential to provide a clear and informative description to attract users and help them understand the purpose of your repository. Here's a template you can use for your GitHub repository description:
-
 ---
 
 # Advanced Java Concepts Repository
