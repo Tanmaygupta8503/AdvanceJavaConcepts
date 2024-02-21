@@ -29,7 +29,7 @@ This repository is a comprehensive collection of advanced Java concepts, accompa
 
 ## Contribution Guidelines:
 
-Contributions are welcome! If you have insights to share, additional examples, or improvements, please follow our [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have insights to share, additional examples, or improvements.
 
 ## Feedback:
 
